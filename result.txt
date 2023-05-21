@@ -1,0 +1,2 @@
+ res = characters.index(message[i]) + shift
+            message[i] = characters[res]
